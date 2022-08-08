@@ -1,0 +1,91 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+body{
+    /* background-color: black; */
+    background-image: url('https://c4.wallpaperflare.com/wallpaper/22/240/855/texture-gradient-simple-background-blue-wallpaper-preview.jpg');
+}
+.container{
+    /* border: 3px solid black; */
+    /* background-color: black; */
+    
+}
+.navbar{
+    height: 60px;
+}
+a{
+    color: aliceblue;
+    padding: 15px 10px;
+    margin: 10px 15px;
+    text-decoration: none;
+}
+a:hover{
+    color: aqua;
+}
+ul{
+    display: flex;
+    padding-top:1rem;
+    margin: 0px 130px;
+    list-style: none;
+ }
+ #btn{
+    float: right;
+    margin: 0px 50px;
+    margin-top: -1.5rem;
+    background-color:rgb(118, 232, 247);
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 2px;
+    float: right;
+ }
+
+ .about{
+    border: 3px black;
+    width: 650px;
+    height: 450px;
+    float: right;
+    
+    
+    /* text-align: center; */
+   
+ }
+ .about{
+    margin: 70px 100px;
+    padding-top: 7rem;
+    font-size: large;
+    color:white;
+
+ }
+ .about img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+ }
+ #head1{
+    color: rgb(58, 132, 169);
+ }
+ #head{
+    color:rgb(82, 194, 194);
+    font-family: monospace;
+    font-size: 40px;
+ }
+ #para{
+    justify-content: center;
+    font-family:cursive;
+    font-size: 30px;
+    color: rgb(216, 245, 248);
+ }
+ .id{
+    float:left;
+  margin-left:6rem;
+    padding-top: 8rem;
+ }
+ .img{
+    margin: -64px 50px;
+ }
+ img{
+    box-shadow: 8px 8px 5px black;
+
+ }
